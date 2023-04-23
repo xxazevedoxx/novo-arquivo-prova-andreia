@@ -1,0 +1,33 @@
+/* Define a cor de fundo preta para o corpo do site */
+body {
+    background-color: black;
+  }
+  
+  /* Define a cor branca para o texto */
+  body, h1, h2, h3, h4, h5, h6, p, a {
+    color: white;
+  }
+  
+  /* Define as cores azuis para os botões */
+  button, input[type="submit"] {
+    background-color: blue;
+    color: white;
+  }
+
+  /* Estilos para a seção de contato */
+#contato {
+    width: 50%;
+    margin: 0 auto;
+  }
+  
+  /* Estilos para a seção FAQ */
+  .faq {
+    font-size: 1.2rem;
+  }
+  
+  /* Estilos para a seção Sobre */
+  #sobre {
+    height: 500px;
+  }
+
+  
